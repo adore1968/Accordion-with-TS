@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="min-h-screen bg-purple-900">
       <main>
-        <section className="px-6">
+        <section className="px-6 py-6 sm:py-0">
           <div className="flex min-h-screen items-center justify-center">
             <AccordionList />
           </div>
